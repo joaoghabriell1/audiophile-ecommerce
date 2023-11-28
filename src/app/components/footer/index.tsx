@@ -1,6 +1,5 @@
 import DefaultNavbar from "../navbar/default-navbar";
 import Logo from "../../../../public/assets/logo.svg";
-import Hero from "../../../../public/assets/shared/mobile/image-best-gear.jpg";
 import Image from "next/image";
 
 const Footer = () => {
