@@ -29,10 +29,10 @@ const Footer = () => {
           </div>
           <DefaultNavbar orientation="column" />
           <p className="text-center text-light_gray_200 text-opacity-50 my-12 md:text-start">
-            Audiophile is an all in one stop to fulfill your audio needs. We're
-            a small team of music lovers and sound specialists who are devoted
-            to helping you get the most out of personal audio. Come and visit
-            our demo facility - we’re open 7 days a week.
+            Audiophile is an all in one stop to fulfill your audio needs.
+            We&apos;re a small team of music lovers and sound specialists who
+            are devoted to helping you get the most out of personal audio. Come
+            and visit our demo facility - we&apos;re open 7 days a week.
           </p>
           <p className="text-white opacity-50 text-center">
             Copyright 2021. All Rights Reserved
